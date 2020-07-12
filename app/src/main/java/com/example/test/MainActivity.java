@@ -20,8 +20,15 @@ public class MainActivity extends AppCompatActivity {
         //获取网络数据
     }
 
+
+
+
     private class upload{
         //上传数据
+    }
+
+    private class test{
+
     }
 
 }
