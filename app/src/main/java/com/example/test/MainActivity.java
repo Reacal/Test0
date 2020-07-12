@@ -16,4 +16,8 @@ public class MainActivity extends AppCompatActivity {
         //登录功能
     }
 
+    private class loadDate{
+        //获取网络数据
+    }
+
 }
